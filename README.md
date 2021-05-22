@@ -4,12 +4,12 @@ this is the official repository for the #nofakes project provided by the Univers
 # Main results:
 The images below display the predicted and ground truth flow values respectively. The predicted flow values are discretised and can take 121 different values. At the moment the model is not fine tuned with regression but the predictions seem consistent with the training data. 
 <p float="left">
-  <img src="https://github.com/peterfazekas1999/-nofakes-project/blob/main/results_trial/t1_p.png" width ="300">
-  <img src="https://github.com/peterfazekas1999/-nofakes-project/blob/main/results_trial/t1_r.png" width ="300">
+  <img src="https://github.com/peterfazekas1999/-nofakes-project/blob/main/results_trial/ground_truth.jpg" width ="300">
+  <img src="https://github.com/peterfazekas1999/-nofakes-project/blob/main/results_trial/prediction1.jpg" width ="300">
 </p>
 
 <p float="left">
-<img src="https://github.com/peterfazekas1999/-nofakes-project/blob/main/results_trial/t2_p.png" width ="300">
-<img src="https://github.com/peterfazekas1999/-nofakes-project/blob/main/results_trial/t2_r.png" width ="300">
+<img src="https://github.com/peterfazekas1999/-nofakes-project/blob/main/results_trial/ground_truth2.jpg" width ="300">
+<img src="https://github.com/peterfazekas1999/-nofakes-project/blob/main/results_trial/prediction2.jpg" width ="300">
 </p>
 
