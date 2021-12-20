@@ -14,7 +14,7 @@ The images below display the predicted and ground truth flow values respectively
 <p float="left">
 <img src="https://github.com/peterfazekas1999/-nofakes-project/blob/main/results_trial/ground_truth2.jpg" width ="300">
 <img src="https://github.com/peterfazekas1999/-nofakes-project/blob/main/results_trial/prediction2.jpg" width ="300">
-</p>.
+</p>
 
 # Disclaimer
 All the files that appear in the `FALdetector_files` folder are from [Adobe team repository](https://github.com/PeterWang512/FALdetector). 
