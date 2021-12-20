@@ -17,5 +17,5 @@ The images below display the predicted and ground truth flow values respectively
 </p>.
 
 # Disclaimer
-This repository is still being cleaned up, and at the minute a lot of the code that appears here was taken directly from the [Adobe team repository](https://github.com/PeterWang512/FALdetector). We of course take no credit for the work done by the Adobe Team. 
+The code that appears in the file `FALdetector_files` is from the [Adobe team repository](https://github.com/PeterWang512/FALdetector). We of course take no credit for the work done by the Adobe Team. 
 
