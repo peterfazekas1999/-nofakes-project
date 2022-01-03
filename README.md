@@ -17,5 +17,5 @@ The images below display the predicted and ground truth flow values respectively
 </p>
 
 # Disclaimer
-All the files that appear in the `FALdetector_files` folder are from [Adobe team repository](https://github.com/PeterWang512/FALdetector). 
+`train.csv` and all the files that appear in folders `FALdetector_files` and `weights` are from [Adobe team repository](https://github.com/PeterWang512/FALdetector). 
 
